@@ -9,9 +9,9 @@
 <!-- Vikrant's Edits Starts -->
 <h2>Hey I have added this line here</h2> 
 
-<?
+<?php
 
-error
+echo "error";
 
 
 ?>
